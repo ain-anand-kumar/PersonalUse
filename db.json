@@ -1,1 +1,11 @@
-{"id":"100"}
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "anand2610"
+  }
+}
